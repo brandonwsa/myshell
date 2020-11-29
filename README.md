@@ -12,3 +12,5 @@ This is a shell written in C that will allow the user to execute given files and
 - When provided with the proper run operation and an existing file and commands, the program will fork a new process, creating a child process, and run the given file and commands there.
 Once the file is done running, the child process returns out.
 
+## Screenshots
+![Screenshot](https://github.com/brandonwsa/myshell/blob/main/Myshell/screenshots/SS.PNG)
